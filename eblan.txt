@@ -1,0 +1,5 @@
+1984|George Orwell|Dystopian|1949|3
+To Kill a Mockingbird|Harper Lee|Fiction|1960|2
+The Great Gatsby|F. Scott Fitzgerald|Fiction|1925|4
+Brave New World|Aldous Huxley|Dystopian|1932|5
+Moby-Dick|Herman Melville|Adventure|1851|1
